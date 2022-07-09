@@ -1,12 +1,4 @@
-If you are using an image from your desktop file, you need to drag the image to your repository issues box to get the url.
-After you drag the image to the repositury issues input box, it will generate the image url for you.
-Copy and paste the image url to the code below.
-<img src=”url" alt=”my banner”>
-Put this code into your README.md file.
-Note: you can't use the CSS file for the code in the README.md. You have to style inside the HTML element if you want to align or size the image. 
-Example: 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”url" alt=”my banner”>
-
-</p>
+Create a new ewpository with your GitHub name Logo.
+Check the "Add a README file" box.
+After you created the README.md file, GitHub will show you the option to edit the file.
+Drop the image in png, preview then commit.
